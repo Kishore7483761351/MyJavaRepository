@@ -13,6 +13,7 @@ public class Encapsualtion {
 	void method(){
 		int a =5 ;
 		System.out.println(a);
+		System.out.println("HI all");
 		
 	}
 
