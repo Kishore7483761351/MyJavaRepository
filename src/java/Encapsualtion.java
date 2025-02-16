@@ -15,6 +15,7 @@ public class Encapsualtion {
 		System.out.println(a);
 		System.out.println("HI all");
 		
+		
 	}
 
 }
